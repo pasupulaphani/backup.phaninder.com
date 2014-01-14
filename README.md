@@ -1,4 +1,4 @@
-backup.phaninder.com
+backup.phaninder.com (deprecated)
 ====================
 
 ##GDrive client and utils to backup my files
