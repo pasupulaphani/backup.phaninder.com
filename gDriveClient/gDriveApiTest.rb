@@ -5,9 +5,9 @@ require_relative './GDrive'
 require_relative './GDriveUtils'
 include GDriveUtils
 
-config_file = '/etc/phaninder.com/backup.json';
-env         = ENV['BACKUP_ENV'] || 'dev'
-config      = JSON.parse(IO.read(config_file))[env];
+env         = ENV['BACKUP_ENV'] || 'prod'
+config_file = "../config/#{env}.backup.json"
+config      = JSON.parse(IO.read(config_file))['gdrive'];
 
 p12_key_file = config['p12_key_file']
 passphrase   = config['passphrase']

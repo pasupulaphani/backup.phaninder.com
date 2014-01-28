@@ -16,3 +16,6 @@ tmp
 .yardoc
 _yardoc
 doc/
+
+# no prod config
+config/prod.backup.json

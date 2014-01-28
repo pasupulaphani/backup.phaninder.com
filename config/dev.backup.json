@@ -1,0 +1,18 @@
+{
+	"gdrive": {
+    "p12_key_file": "your google project privatekey.p12",
+    "passphrase" : "service phrase",
+    "scope" : "drive",
+    "backup_folder" : "folder name on the drive",
+    "issuer" :"project-service@developer.gserviceaccount.com"
+	},
+	"github": {
+		"username": "your github username",
+		"token": "your personal access token",
+		"backup": {
+			"repo": "repository name",
+			"branch": "master",
+			"folder": "folder path"
+		}
+	}
+}
