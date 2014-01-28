@@ -2,9 +2,9 @@ backup.phaninder.com
 ====================
 > (still trying to move to public repo)
 
-* GDrive client and utils to backup my files (deprecated)
+* GDrive client and utils to backup my files (old)
 --------
-* github client and utils to backup my files (new and currently being used)
+* github client and utils to backup my files (new and currently used)
 --------
 
 
