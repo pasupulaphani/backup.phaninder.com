@@ -4,7 +4,7 @@ backup.phaninder.com
 
 * GDrive client and utils to backup my files (old)
 --------
-* github client and utils to backup my files (new and currently used)
+* GitHub client and utils to backup my files (new and currently used)
 --------
 
 
