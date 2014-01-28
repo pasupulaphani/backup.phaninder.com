@@ -2,7 +2,7 @@ backup.phaninder.com
 ====================
 > (still trying to move to public repo)
 
-> Please note that the modules and code in this repo are only samples (but working copies). Actual modules are in private repos.
+> Please note that the modules and code in this repo are only samples (but working copies).
 
 ## GDrive client and utils to backup my files (old)
 
