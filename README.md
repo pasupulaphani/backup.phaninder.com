@@ -1,22 +1,11 @@
-backup.phaninder.com (deprecated)
+backup.phaninder.com 
 ====================
+> (still trying to move to public repo)
 
-##GDrive client and utils to backup my files
+* GDrive client and utils to backup my files (deprecated)
+--------
+* github client and utils to backup my files (new and currently being used)
+--------
 
 
----------------------------------------------
-
-Config is expected to be available under /etc/phaninder.com/backup.json
-
-		{
-			"dev": {
-				"p12_key_file": "your google project privatekey.p12",
-				"passphrase" : "service phrase",
-				"scope" : "drive",
-				"backup_folder" : "folder name on the drive",
-				"issuer" :"project-service@developer.gserviceaccount.com"
-			},
-			"prod": {
-		    // same goes here
-			}
-		}
+> Please note that the modules and code in this repo are only samples (but working copies). Actual modules are in private repos.
