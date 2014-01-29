@@ -9,7 +9,7 @@ class GitHubClient
 	def initialize(login, token)
 
 		# Initialize the client.
-		@client = Octokit::Client.new :login => login, :token => token
+		@client = Octokit::Client.new :login => login, :access_token => token
 
 	end
 end
